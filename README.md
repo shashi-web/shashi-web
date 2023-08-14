@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashi-web
 - 👀 I’m interested in Automation 
-- 🌱 I’m currently learning Bash-Shell-scripting, GoLang, yaml, python, Terraform, Ansible, Jenkins, Docker, Prometheus, Grafana, AWS Services.
+- 🌱 I’m currently learning Bash-Shell-scripting, python, Terraform, Jenkins, Docker, k8s, Prometheus, Grafana, AWS Services.
 - 📫 How to reach me gmail/linkedin - shashidhar1572@gmail.com
 <!---
 shashi-web/shashi-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
